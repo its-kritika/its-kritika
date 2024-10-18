@@ -20,7 +20,8 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kritika-kesarwani-034104239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kritika-kesarwani-034104239" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kritika-kesarwani-034104239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kritika-kesarwani-034104239" height="32" width="41" /></a>&nbsp;
+<a href="https://leetcode.com/u/kritika2002/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/2e24da72-a13e-4d4e-9112-34109b8fc7b8" alt="kritika-kesarwani-034104239" height="30" width="38" /></a>
 </p>
 <hr>
 
@@ -32,12 +33,7 @@
 <hr>
 <h3 align="left">GSSoC'24 Badges:</h3>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="120px" height="120px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="120px" height="120px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="120px" height="120px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="120px" height="120px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="120px" height="120px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="120px" height="120px" />
+  <img src="https://github.com/user-attachments/assets/f1350ce2-9e3a-4726-8043-9de31ba71768"  width="668px" height="168px"/>
 </div>
 <hr>
 <h3 align="left">GitHub Stats:</h3>
