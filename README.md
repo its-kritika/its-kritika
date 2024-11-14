@@ -20,7 +20,7 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kritika-kesarwani-034104239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kritika-kesarwani-034104239" height="32" width="41" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/kritika-prakash-034104239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kritika-kesarwani-034104239" height="32" width="41" /></a>&nbsp;
 <a href="https://leetcode.com/u/kritika2002/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/2e24da72-a13e-4d4e-9112-34109b8fc7b8" alt="kritika-kesarwani-034104239" height="30" width="38" /></a>
 </p>
 <hr>
